@@ -1,0 +1,18 @@
+h1{
+ text-align: center;
+}
+#rock{
+padding: 10px;
+}
+#paper{
+padding: 10px;
+}
+#scissor{
+padding: 10px;
+}
+#div{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+
+}
